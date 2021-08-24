@@ -68,6 +68,7 @@ Ruipeng | Math Evo | A
 Linh | Math Evo | A
 Eshan | Math Evo | A
 Em | Math Evo | A
+Kristi | Collateral sensitivity | B
 Arda | Informatics | B
 Jess | Informatics | B
 Davis | Informatics | B
@@ -86,7 +87,6 @@ Masahiro | wet lab | D
 Mina | wet lab | D
 Kyle | Bacterial Evo | D
 Rupleen | | D
-Kristi | | D
 
 
 ## case cluster computing
