@@ -73,13 +73,9 @@ Arda | Informatics | B
 Jess | Informatics | B
 Davis | Informatics | B
 Nikhil | Informatics, Math Evo | B
-Abhilash | Informatics | B
 Dena | Informatics | B
-Tommy | Informatics | B
 Raoul | TDA | C
 Eashwar | TDA | C
-Geoff | Game theory | C
-Adam | TDA | C
 Luka | | C
 Julia | Fitness landscapes | C
 Vish | Engineering | D
@@ -87,6 +83,7 @@ Masahiro | wet lab | D
 Mina | wet lab | D
 Kyle | Bacterial Evo | D
 Rupleen | | D
+Nick | | D
 
 
 ## case cluster computing
