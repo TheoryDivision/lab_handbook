@@ -74,6 +74,7 @@ Jess | Informatics | B
 Davis | Informatics | B
 Nikhil | Informatics, Math Evo | B
 Nick | -- | B
+Joey | -- | B
 Steph | Math Evo | C
 Luka | -- | C
 Jason | Spatial games | C
