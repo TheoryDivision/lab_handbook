@@ -62,8 +62,8 @@ background work in the form of out-links.
 
 Name | Focus | Group
 -----|-------|------
-Steph | Math Evo | A
 Jeff | Bacterial Evo, Math Evo | A
+Julia | Fitness landscapes | A
 Ruipeng | Math Evo | A
 Linh | Math Evo | A
 Eshan | Math Evo | A
@@ -73,17 +73,18 @@ Arda | Informatics | B
 Jess | Informatics | B
 Davis | Informatics | B
 Nikhil | Informatics, Math Evo | B
-Dena | Informatics | B
-Raoul | TDA | C
-Eashwar | TDA | C
-Luka | | C
-Julia | Fitness landscapes | C
+Nick | -- | B
+Steph | Math Evo | C
+Luka | -- | C
+Jason | Spatial games | C
+Cyrus | Game simulations | C
+Bez | Imaging | C
+David | Cancer simulations | C
 Vish | Engineering | D
 Masahiro | wet lab | D
 Mina | wet lab | D
 Kyle | Bacterial Evo | D
-Rupleen | | D
-Nick | | D
+Dena | EVE | D
 
 
 ## case cluster computing
