@@ -86,6 +86,7 @@ Masahiro | wet lab | D
 Mina | wet lab | D
 Kyle | Bacterial Evo | D
 Dena | EVE | D
+Dagim | Cancer seascape | D
 
 
 ## case cluster computing
