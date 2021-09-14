@@ -156,6 +156,8 @@ A: We all work during the hours that work for us! Of course, there may be except
 
 <a href="https://theorydivision.github.io/lab_handbook/collaboration_guides/Collaboration Guide - Kyle Card.pdf" target="_blank">Kyle's collaboration guide</a>
 
+<a href="https://theorydivision.github.io/lab_handbook/collaboration_guides/Jess collaboration guide.pdf" target="_blank">Jess's collaboration guide</a>
+
 ### protocols
 
 [Example Protocol](https://theorydivision.github.io/lab_handbook/protocols/protocol1.html)
