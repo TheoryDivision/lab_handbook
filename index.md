@@ -74,13 +74,17 @@ Jess | Informatics | B
 Davis | Informatics | B
 Nikhil | Informatics, Math Evo | B
 Nick | -- | B
-Joey | -- | B
+Joey | Radiosensitivity | B
 Steph | Math Evo | C
-Luka | -- | C
 Jason | Spatial games | C
-Cyrus | Game simulations | C
 Bez | Imaging | C
 David | Cancer simulations | C
+Siamrut | TDA | C
+Cathy | -- | C
+Raoul | TDA | C
+Eashwar | TDA | C
+Cyrus | Game Theory | C
+Luka | -- | C
 Vish | Engineering | D
 Masahiro | wet lab | D
 Mina | wet lab | D
