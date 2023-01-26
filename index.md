@@ -31,8 +31,8 @@ There are currently four rotating groups of presenters- A, B, C, and D. If you
 are new to the theory division, talk to Jake to figure out which group you
 should be added to.
 
-Currently, lab meetings are done over zoom (see the lab calendar or slack for
-the link) and slides are presented via google slides. You can find the weekly
+Currently, lab meetings are done in a hybrid fashion (see the lab calendar or slack for
+the link/place) and slides are presented via google slides. You can find the weekly
 slide deck, along with the presentation archive, in this [google drive](https://drive.google.com/drive/folders/1Td6w38lMTlTl_yOHnCTZgT6SO2TUn5Rj). The G1
 MD/PhD student in the lab is currently responsible for scheduling lab meetings.
 For the 2020-2021 academic year, that’s Davis Weaver.
@@ -75,7 +75,7 @@ Davis | Informatics | B
 Nikhil | Informatics, Math Evo | B
 Nick | -- | B
 Joey | -- | B
-Steph | Math Evo | C
+Rowan | Math Evo | C
 Luka | -- | C
 Jason | Spatial games | C
 Cyrus | Game simulations | C
@@ -93,9 +93,11 @@ Dagim | Cancer seascape | D
 
 To get access to the Case High Performance Computing Cluster, email
 hpc-support@case.edu and cc Jake.
+To get access to the LRI High Performance Computing Cluster, email
+durmaza@ccf.org and cc Jake
 
-Link to the cluster: https://ondemand.case.edu/pun/sys/dashboard
-*Note: you must be on Case Wireless or using a VPN to access.
+Link to the CWRU cluster: https://ondemand.case.edu or https://ondemand-pioneer.case.edu
+Access to LRI cluster, ssh 10.88.8.31
 
 ## lab file server
 
@@ -104,8 +106,13 @@ protocol (FTP) such as FileZilla or Cyberduck. Then, you can message someone
 (i.e. Eshan) in the lab to get the server name, username, and password. You can
 then access the server from anywhere, without a VPN.
 
-## espresso machine
+## LRI Lab Drive
+For Windows machines, network drives will be automatically mounted at boot, W:\Shared\LRI\Labs\scottlab\
+For MacOS mount '...'
 
+
+
+## espresso machine
 Start here: [Video guide to brewing espresso in the Theory Division](https://drive.google.com/drive/folders/1MO-VkAS1xKHvoDxoM6z4nsUQJoBjzKZ1)
 
 The lab espresso machine is a Profitec Pro 800 (user manual found [here](https://www.profitec-espresso.com/media/pages/produkte/pro800/3880687400-1559739290/pro_800.pdf)
